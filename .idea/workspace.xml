@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f36d38-3116-4d03-9a2c-7d6abaf6008e" name="Changes" comment="just pasted in src">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWS_HOLORAY.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/Canvas.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/VideoPlayer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/VideoRoom.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_holoray/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +68,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719413252088</updated>
-      <workItem from="1719413253554" duration="557000" />
+      <workItem from="1719413253554" duration="1873000" />
     </task>
+    <task id="LOCAL-00001" summary="just pasted in src">
+      <option name="closed" value="true" />
+      <created>1719413968826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719413968826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="just pasted in src">
+      <option name="closed" value="true" />
+      <created>1719414101336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719414101336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
